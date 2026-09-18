@@ -1,5 +1,5 @@
 {
-  "name": "agent-cli",
+  "name": "T-Chat",
   "version": "1.0.0",
   "description": "Peer-to-peer terminal chat over WebSockets.",
   "author": "Aayush Sharma",
