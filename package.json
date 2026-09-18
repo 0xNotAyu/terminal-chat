@@ -4,6 +4,7 @@
   "description": "Peer-to-peer terminal chat over WebSockets.",
   "author": "Aayush Sharma",
   "type": "module",
+  "files": ["dist"],
   "main": "dist/index.js",
   "bin": {
     "chat": "dist/index.js",
